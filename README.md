@@ -8,7 +8,9 @@ It’s designed for students, researchers, and enthusiasts who want to see how A
 ## NdLinear: Preserving Multi-Dimensional Structure for Parameter-Efficient Neural Networks
 - Ensemble AI
 
+<a href = "https://github.com/imruljubair/Demystifying-Modern-AI-Papers-with-Matrix-and-Number-Walkthroughs/blob/main/Ensemble-AI-Nd-Linear.xlsx">
 <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/3113f814-1713-4658-bd86-a073bfa8aa31" />
+</a>
 
 ---
 ## XAttention: Block Sparse Attention with Antidiagonal Scoring
