@@ -15,9 +15,10 @@ It’s designed for students, researchers, and enthusiasts who want to see how A
 ---
 ## XAttention: Block Sparse Attention with Antidiagonal Scoring
 - ICML 2025
-  
-<img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/30b666f3-dd32-4aa9-9583-1c7d6f6875c8" />
 
+<a href = "ICML25-X-Attention.xlsx">
+<img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/30b666f3-dd32-4aa9-9583-1c7d6f6875c8" />
+</a>
 ---
 
 ## Rethinking Spiking Self-Attention Mechanism: Implementing α-XNOR Similarity Calculation in Spiking Transformers
