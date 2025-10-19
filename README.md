@@ -8,7 +8,7 @@ It’s designed for students, researchers, and enthusiasts who want to see how A
 ## NdLinear: Preserving Multi-Dimensional Structure for Parameter-Efficient Neural Networks
 - Ensemble AI
 
-<a href = "https://github.com/imruljubair/Demystifying-Modern-AI-Papers-with-Matrix-and-Number-Walkthroughs/blob/main/Ensemble-AI-Nd-Linear.xlsx">
+<a href = "Ensemble-AI-Nd-Linear.xlsx">
 <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/3113f814-1713-4658-bd86-a073bfa8aa31" />
 </a>
 
@@ -27,26 +27,34 @@ It’s designed for students, researchers, and enthusiasts who want to see how A
 <a href="CVPR25-alpha-SSA.xlsx">
 <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/fbc5f90a-225d-47ec-ae3a-0081d31146fb" />
 </a>
+
 ---
 
 ## Spiking Transformer: Introducing Accurate Addition-Only Spiking Self-Attention for Transformer
 - CVPR 2025
+
+<a href="CVPR25-A2OS2A.xlsx">
 <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/56e9ca6c-8981-4675-a775-993eddc5686f" />
+</a>
 
 ---
 
 ## DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation
 - CVPR 2025
-  
+
+<a href="CVPR25-DFormerV2.xlsx">
 <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/e97e7592-24f1-4286-a7ea-aaeeb4d566e4" />
+</a>
 
 ---
 
 ## TOKENFORMER: Rethinking Transformers Scaling with Tokenized Model Parameters
 - Google | MPI | Peking University
 - ICLR 2025
-  
+
+<a href="ICLR25-Google-TokenFormer.xlsx">
 <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/ca8c5dc2-19fb-4145-8af0-8bbdf0bb3ef1" />
+</a>
 
 ---
 
