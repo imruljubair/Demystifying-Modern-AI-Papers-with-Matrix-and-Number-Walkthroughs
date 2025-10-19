@@ -23,9 +23,10 @@ It’s designed for students, researchers, and enthusiasts who want to see how A
 
 ## Rethinking Spiking Self-Attention Mechanism: Implementing α-XNOR Similarity Calculation in Spiking Transformers
 - CVPR 2025
-
+  
+<a href="CVPR25-alpha-SSA.xlsx">
 <img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/fbc5f90a-225d-47ec-ae3a-0081d31146fb" />
-
+</a>
 ---
 
 ## Spiking Transformer: Introducing Accurate Addition-Only Spiking Self-Attention for Transformer
